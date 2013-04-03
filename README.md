@@ -5,8 +5,8 @@ posts for your [Jekyll] generated site hosted in GitHub Pages, using Liquid
 and JavaScript (without plugins).
 `jekyll-tagcloud` uses a linear logarithmic (very simple) in order to weight tags.
 
-Of course you can do the same using Jekyll plugins, but that means that
-you would have to run Jekyll locally and post the produced files into your repo
+You can do the same using Jekyll plugins, but that means that
+you should have to run Jekyll locally and post the produced files into your repo
 (because GitHub Pages does not allow Jekyll plugins). I don't like that solution, 
 hence `jekyll-tagcloud`.
 
